@@ -22,7 +22,7 @@ public:
 
 int main()
 {
-	ifstream f("file.txt");
+	ifstream f("data.txt");
 	int k;
 	f >> k;
 	vector <Point> points;
